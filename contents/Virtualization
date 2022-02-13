@@ -1,0 +1,5 @@
+Explain virtual machine vs container.
+What are some examples of Linux namespace?
+How does a virtual machine (VM) work?
+How does a container (for example: Docker) work?
+Why is orchestration tools like Kubernetes, Mesos used for?

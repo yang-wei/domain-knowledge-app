@@ -1,0 +1,8 @@
+Explain process vs thread (kernel perspective).
+How to kill a process?
+What is a processor?
+What is CPU clock rate?
+Explain CPU vs GPU. What are some GPU use cases?
+What is a kernel scheduler?
+What is a system call (syscall). Can you give some examples of them.
+Explain kernel space vs user space.

@@ -1,0 +1,6 @@
+Explain garbage collector.
+How do you achieve concurrency with your most familiar programming language.
+How to prevent race condition during concurrency operation.
+What is a singleton?
+Explain dependency injection.
+Why do we need a connection pool when dealing with TCP(database)/HTTP(HTTP server)?
